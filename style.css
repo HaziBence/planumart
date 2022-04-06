@@ -23,7 +23,17 @@ body, html {
   .content-container {
 	padding: 100px 75px 75px 75px;
   }
+
+  .conent-center {
+	  text-align: center;
+  }
   
+  img {
+    width:  100px;
+    height: 800px;
+    object-fit: cover;
+}
+
   .footer {
 	 left: 0;
 	 bottom: 0;
