@@ -55,6 +55,15 @@ body, html {
     text-align: center;
   }
   
+  .navbar {
+    padding-left: 75px;
+  }
+
+  .navbar-brand {
+    position: absolute;
+    left: 200px;
+    top: 15px;
+  }
   
   /* Turn off parallax scrolling for tablets and phones. Increase the pixels if needed */
   @media only screen and (max-device-width: 1366px) {
